@@ -1,5 +1,23 @@
 # Harnice application releases are found here.
 
+## [v0.10.12](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.12)
+
+## What's Changed
+* 1250 fix mate connector grievances by @kenyonshutt in https://github.com/harnice/Harnice/pull/1252
+* fixed svg write bug by @kenyonshutt in https://github.com/harnice/Harnice/pull/1253
+* fixed image attachment bounds by @kenyonshutt in https://github.com/harnice/Harnice/pull/1254
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.10.11...v0.10.12
+
+## What's Changed
+* 1250 fix mate connector grievances by @kenyonshutt in https://github.com/harnice/Harnice/pull/1252
+* fixed svg write bug by @kenyonshutt in https://github.com/harnice/Harnice/pull/1253
+* fixed image attachment bounds by @kenyonshutt in https://github.com/harnice/Harnice/pull/1254
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.10.11...v0.10.12
+
 ## [v0.10.11](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.11)
 
 # Big Changes
