@@ -1,5 +1,50 @@
 # Harnice application releases are found here.
 
+## [v0.10.11](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.11)
+
+# Big Changes
+* You can now build 3D models of your devices and arrange them into a physical model of your system
+
+## What's Changed
+* updated docs to suggest uv if pip doesn't work by @kenyonshutt in https://github.com/harnice/Harnice/pull/1222
+* updated button to reinstall new releases by @kenyonshutt in https://github.com/harnice/Harnice/pull/1225
+* paste now lands objects under the cursor by @kenyonshutt in https://github.com/harnice/Harnice/pull/1226
+* 1096 channels can loop back through passthroughs by @kenyonshutt in https://github.com/harnice/Harnice/pull/1227
+* 1223 cable construction in harness 2d viewer by @kenyonshutt in https://github.com/harnice/Harnice/pull/1228
+* added channel map console page by @kenyonshutt in https://github.com/harnice/Harnice/pull/1231
+* moved channel types out of the harnice repo by @kenyonshutt in https://github.com/harnice/Harnice/pull/1234
+* added pull button to library repos by @kenyonshutt in https://github.com/harnice/Harnice/pull/1235
+* load source part works properly by @kenyonshutt in https://github.com/harnice/Harnice/pull/1238
+* 1232 do loop backs actually show up in harnesses by @kenyonshutt in https://github.com/harnice/Harnice/pull/1239
+* edge case examples in docs by @kenyonshutt in https://github.com/harnice/Harnice/pull/1201
+* added configuration variables to build instructions banner by @kenyonshutt in https://github.com/harnice/Harnice/pull/1243
+* harness build instructions skill and docs overhaul by @kenyonshutt in https://github.com/harnice/Harnice/pull/1100
+* updated docs by @kenyonshutt in https://github.com/harnice/Harnice/pull/1244
+* 1178 3d arrangement of a system by @kenyonshutt in https://github.com/harnice/Harnice/pull/1245
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.10.10...v0.10.11
+
+## What's Changed
+* updated docs to suggest uv if pip doesn't work by @kenyonshutt in https://github.com/harnice/Harnice/pull/1222
+* updated button to reinstall new releases by @kenyonshutt in https://github.com/harnice/Harnice/pull/1225
+* paste now lands objects under the cursor by @kenyonshutt in https://github.com/harnice/Harnice/pull/1226
+* 1096 channels can loop back through passthroughs by @kenyonshutt in https://github.com/harnice/Harnice/pull/1227
+* 1223 cable construction in harness 2d viewer by @kenyonshutt in https://github.com/harnice/Harnice/pull/1228
+* added channel map console page by @kenyonshutt in https://github.com/harnice/Harnice/pull/1231
+* moved channel types out of the harnice repo by @kenyonshutt in https://github.com/harnice/Harnice/pull/1234
+* added pull button to library repos by @kenyonshutt in https://github.com/harnice/Harnice/pull/1235
+* load source part works properly by @kenyonshutt in https://github.com/harnice/Harnice/pull/1238
+* 1232 do loop backs actually show up in harnesses by @kenyonshutt in https://github.com/harnice/Harnice/pull/1239
+* edge case examples in docs by @kenyonshutt in https://github.com/harnice/Harnice/pull/1201
+* added configuration variables to build instructions banner by @kenyonshutt in https://github.com/harnice/Harnice/pull/1243
+* harness build instructions skill and docs overhaul by @kenyonshutt in https://github.com/harnice/Harnice/pull/1100
+* updated docs by @kenyonshutt in https://github.com/harnice/Harnice/pull/1244
+* 1178 3d arrangement of a system by @kenyonshutt in https://github.com/harnice/Harnice/pull/1245
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.10.10...v0.10.11
+
 ## [v0.10.10](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.10)
 
 ## What's Changed
