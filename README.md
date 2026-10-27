@@ -1,5 +1,23 @@
 # Harnice application releases are found here.
 
+## [v0.10.14](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.14)
+
+## What's Changed
+* removed step timestamp rewrite by @kenyonshutt in https://github.com/harnice/Harnice/pull/1273
+* removed scroll limits on pdf viewer by @kenyonshutt in https://github.com/harnice/Harnice/pull/1274
+* localized git controls to project, removed commit strategy by @kenyonshutt in https://github.com/harnice/Harnice/pull/1275
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.10.13...v0.10.14
+
+## What's Changed
+* removed step timestamp rewrite by @kenyonshutt in https://github.com/harnice/Harnice/pull/1273
+* removed scroll limits on pdf viewer by @kenyonshutt in https://github.com/harnice/Harnice/pull/1274
+* localized git controls to project, removed commit strategy by @kenyonshutt in https://github.com/harnice/Harnice/pull/1275
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.10.13...v0.10.14
+
 ## [v0.10.13](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.13)
 
 ## What's Changed
