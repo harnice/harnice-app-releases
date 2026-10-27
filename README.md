@@ -1,5 +1,21 @@
 # Harnice application releases are found here.
 
+## [v0.10.13](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.13)
+
+## What's Changed
+* minor git updates by @kenyonshutt in https://github.com/harnice/Harnice/pull/1269
+* 976 make attribute text call actual python by @kenyonshutt in https://github.com/harnice/Harnice/pull/1270
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.10.12...v0.10.13
+
+## What's Changed
+* minor git updates by @kenyonshutt in https://github.com/harnice/Harnice/pull/1269
+* 976 make attribute text call actual python by @kenyonshutt in https://github.com/harnice/Harnice/pull/1270
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.10.12...v0.10.13
+
 ## [v0.10.12](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.12)
 
 ## What's Changed
