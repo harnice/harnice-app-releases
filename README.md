@@ -1,5 +1,31 @@
 # Harnice application releases are found here.
 
+## [v0.10.15](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.15)
+
+## What's Changed
+* updated macro locations in ribbon by @kenyonshutt in https://github.com/harnice/Harnice/pull/1281
+* 1255 make delete instance button in the block diagram by @kenyonshutt in https://github.com/harnice/Harnice/pull/1282
+* changed color of xyz in triad text fields by @kenyonshutt in https://github.com/harnice/Harnice/pull/1283
+* removed bug causing ditched cursor in text field by @kenyonshutt in https://github.com/harnice/Harnice/pull/1284
+* corrected mistakes in skills by @kenyonshutt in https://github.com/harnice/Harnice/pull/1285
+* block diagram object hitbox updates by @kenyonshutt in https://github.com/harnice/Harnice/pull/1287
+* added simple math support to number fields by @kenyonshutt in https://github.com/harnice/Harnice/pull/1288
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.10.14...v0.10.15
+
+## What's Changed
+* updated macro locations in ribbon by @kenyonshutt in https://github.com/harnice/Harnice/pull/1281
+* 1255 make delete instance button in the block diagram by @kenyonshutt in https://github.com/harnice/Harnice/pull/1282
+* changed color of xyz in triad text fields by @kenyonshutt in https://github.com/harnice/Harnice/pull/1283
+* removed bug causing ditched cursor in text field by @kenyonshutt in https://github.com/harnice/Harnice/pull/1284
+* corrected mistakes in skills by @kenyonshutt in https://github.com/harnice/Harnice/pull/1285
+* block diagram object hitbox updates by @kenyonshutt in https://github.com/harnice/Harnice/pull/1287
+* added simple math support to number fields by @kenyonshutt in https://github.com/harnice/Harnice/pull/1288
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.10.14...v0.10.15
+
 ## [v0.10.14](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.14)
 
 ## What's Changed
