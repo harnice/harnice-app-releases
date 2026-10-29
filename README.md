@@ -1,5 +1,43 @@
 # Harnice application releases are found here.
 
+## [v0.10.16](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.16)
+
+## What's Changed
+* added device default build instructions, put on website by @kenyonshutt in https://github.com/harnice/Harnice/pull/1289
+* fixed rotation center of primitives in block diagram symbol editor by @kenyonshutt in https://github.com/harnice/Harnice/pull/1290
+* Added editable textbox in connector art by @kenyonshutt in https://github.com/harnice/Harnice/pull/1293
+* 1291 make scrolling possible in all properties popups by @kenyonshutt in https://github.com/harnice/Harnice/pull/1295
+* updated styles dict by @kenyonshutt in https://github.com/harnice/Harnice/pull/1267
+* added all-snap rule to group move with objects that need snap by @kenyonshutt in https://github.com/harnice/Harnice/pull/1298
+* set up library push to harnice library public by @kenyonshutt in https://github.com/harnice/Harnice/pull/1299
+* updatated error message for overconstraining physical mates by @kenyonshutt in https://github.com/harnice/Harnice/pull/1301
+* 1241 collapse library folder in harnice general library by @kenyonshutt in https://github.com/harnice/Harnice/pull/1300
+* 1259 make the generic rack have depth as a parameter by @kenyonshutt in https://github.com/harnice/Harnice/pull/1302
+* added a warning when pasting pngs by @kenyonshutt in https://github.com/harnice/Harnice/pull/1303
+* updated trace overlay logic by @kenyonshutt in https://github.com/harnice/Harnice/pull/1305
+* builds warn not fail on missing libraries, groups of moving devices s… by @kenyonshutt in https://github.com/harnice/Harnice/pull/1306
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.10.15...v0.10.16
+
+## What's Changed
+* added device default build instructions, put on website by @kenyonshutt in https://github.com/harnice/Harnice/pull/1289
+* fixed rotation center of primitives in block diagram symbol editor by @kenyonshutt in https://github.com/harnice/Harnice/pull/1290
+* Added editable textbox in connector art by @kenyonshutt in https://github.com/harnice/Harnice/pull/1293
+* 1291 make scrolling possible in all properties popups by @kenyonshutt in https://github.com/harnice/Harnice/pull/1295
+* updated styles dict by @kenyonshutt in https://github.com/harnice/Harnice/pull/1267
+* added all-snap rule to group move with objects that need snap by @kenyonshutt in https://github.com/harnice/Harnice/pull/1298
+* set up library push to harnice library public by @kenyonshutt in https://github.com/harnice/Harnice/pull/1299
+* updatated error message for overconstraining physical mates by @kenyonshutt in https://github.com/harnice/Harnice/pull/1301
+* 1241 collapse library folder in harnice general library by @kenyonshutt in https://github.com/harnice/Harnice/pull/1300
+* 1259 make the generic rack have depth as a parameter by @kenyonshutt in https://github.com/harnice/Harnice/pull/1302
+* added a warning when pasting pngs by @kenyonshutt in https://github.com/harnice/Harnice/pull/1303
+* updated trace overlay logic by @kenyonshutt in https://github.com/harnice/Harnice/pull/1305
+* builds warn not fail on missing libraries, groups of moving devices s… by @kenyonshutt in https://github.com/harnice/Harnice/pull/1306
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.10.15...v0.10.16
+
 ## [v0.10.15](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.15)
 
 ## What's Changed
