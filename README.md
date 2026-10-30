@@ -1,5 +1,35 @@
 # Harnice application releases are found here.
 
+## [v0.10.17](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.17)
+
+## What's Changed
+* 833 make channel map traces less fug 3 by @kenyonshutt in https://github.com/harnice/Harnice/pull/1319
+* updated sidebar behavior by @kenyonshutt in https://github.com/harnice/Harnice/pull/1321
+* updated signals appearance in connector view by @kenyonshutt in https://github.com/harnice/Harnice/pull/1322
+* updated loopback logic by @kenyonshutt in https://github.com/harnice/Harnice/pull/1320
+* default refdes is now normal text by @kenyonshutt in https://github.com/harnice/Harnice/pull/1323
+* allow refresh on next build for selected devices that have local inst… by @kenyonshutt in https://github.com/harnice/Harnice/pull/1324
+* Let the source control branch pill switch and create branches. by @kenyonshutt in https://github.com/harnice/Harnice/pull/1325
+* added text wrapping in connector view by @kenyonshutt in https://github.com/harnice/Harnice/pull/1326
+* 1313 connector art text is not staying in the middle by @kenyonshutt in https://github.com/harnice/Harnice/pull/1327
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.10.16...v0.10.17
+
+## What's Changed
+* 833 make channel map traces less fug 3 by @kenyonshutt in https://github.com/harnice/Harnice/pull/1319
+* updated sidebar behavior by @kenyonshutt in https://github.com/harnice/Harnice/pull/1321
+* updated signals appearance in connector view by @kenyonshutt in https://github.com/harnice/Harnice/pull/1322
+* updated loopback logic by @kenyonshutt in https://github.com/harnice/Harnice/pull/1320
+* default refdes is now normal text by @kenyonshutt in https://github.com/harnice/Harnice/pull/1323
+* allow refresh on next build for selected devices that have local inst… by @kenyonshutt in https://github.com/harnice/Harnice/pull/1324
+* Let the source control branch pill switch and create branches. by @kenyonshutt in https://github.com/harnice/Harnice/pull/1325
+* added text wrapping in connector view by @kenyonshutt in https://github.com/harnice/Harnice/pull/1326
+* 1313 connector art text is not staying in the middle by @kenyonshutt in https://github.com/harnice/Harnice/pull/1327
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.10.16...v0.10.17
+
 ## [v0.10.16](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.16)
 
 ## What's Changed
