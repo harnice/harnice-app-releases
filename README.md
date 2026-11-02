@@ -1,5 +1,15 @@
 # Harnice application releases are found here.
 
+## [v0.10.20](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.20)
+
+## What's Changed
+* removed duplicates from readme by @kenyonshutt in https://github.com/harnice/Harnice/pull/1363
+* added attributes json editor by @kenyonshutt in https://github.com/harnice/Harnice/pull/1364
+* 1354 changing refdess deletes mates by @kenyonshutt in https://github.com/harnice/Harnice/pull/1365
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.10.19...v0.10.20
+
 ## [v0.10.19](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.19)
 
 ## What's Changed
