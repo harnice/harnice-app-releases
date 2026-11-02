@@ -12,20 +12,6 @@
 * connector art now highlights with trace selection by @kenyonshutt in https://github.com/harnice/Harnice/pull/1359
 * generated remove_unused_instances and added it to default build instr… by @kenyonshutt in https://github.com/harnice/Harnice/pull/1358
 
-
-**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.10.18...v0.10.19
-
-## What's Changed
-* projects pane bug fix by @kenyonshutt in https://github.com/harnice/Harnice/pull/1347
-* fixed bump-in on applied traces group by @kenyonshutt in https://github.com/harnice/Harnice/pull/1345
-* fixed lagging block diagram symbol updates by @kenyonshutt in https://github.com/harnice/Harnice/pull/1346
-* 1348 fix harness refdes behavior by @kenyonshutt in https://github.com/harnice/Harnice/pull/1355
-* fixed a bug causing block diagram to disappear while editing by @kenyonshutt in https://github.com/harnice/Harnice/pull/1356
-* changed undo approach on block diagrams by @kenyonshutt in https://github.com/harnice/Harnice/pull/1357
-* connector art now highlights with trace selection by @kenyonshutt in https://github.com/harnice/Harnice/pull/1359
-* generated remove_unused_instances and added it to default build instr… by @kenyonshutt in https://github.com/harnice/Harnice/pull/1358
-
-
 **Full Changelog**: https://github.com/harnice/Harnice/compare/v0.10.18...v0.10.19
 
 ## [v0.10.18](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.18)
