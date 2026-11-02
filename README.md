@@ -1,5 +1,18 @@
 # Harnice application releases are found here.
 
+## [v0.10.18](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.18)
+
+## What's Changed
+* updated skills on how to point to reference documentation by @kenyonshutt in https://github.com/harnice/Harnice/pull/1330
+* changed git_hash_of_harnice_src to harnice_version by @kenyonshutt in https://github.com/harnice/Harnice/pull/1337
+* layers and selection filters in pdf editor by @kenyonshutt in https://github.com/harnice/Harnice/pull/1340
+* updated deleted instance behavior in console by @kenyonshutt in https://github.com/harnice/Harnice/pull/1342
+* fixed conflicting refdes in physical drawing by @kenyonshutt in https://github.com/harnice/Harnice/pull/1343
+* 1332 add harness bundles by @kenyonshutt in https://github.com/harnice/Harnice/pull/1341
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.10.17...v0.10.18
+
 ## [v0.10.17](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.17)
 
 ## What's Changed
