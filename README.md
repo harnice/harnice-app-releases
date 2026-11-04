@@ -1,5 +1,20 @@
 # Harnice application releases are found here.
 
+## [v0.10.23](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.23)
+
+## What's Changed
+* 1304 allow paste of objects across systems by @kenyonshutt in https://github.com/harnice/Harnice/pull/1391
+* added device refdes change support by @kenyonshutt in https://github.com/harnice/Harnice/pull/1397
+* Update general-library generators and catalogs by @kenyonshutt in https://github.com/harnice/Harnice/pull/1392
+* Add Molex and McMaster part numbers to ring terminals by @kenyonshutt in https://github.com/harnice/Harnice/pull/1393
+* Update service portable-power-cable attributes by @kenyonshutt in https://github.com/harnice/Harnice/pull/1394
+* Update W, SPT, SRDT, and SVT cable attributes by @kenyonshutt in https://github.com/harnice/Harnice/pull/1396
+* Update junior and thermoplastic portable-power-cable attributes by @kenyonshutt in https://github.com/harnice/Harnice/pull/1395
+* Split console dependencies from the harnice -b package. by @kenyonshutt in https://github.com/harnice/Harnice/pull/1376
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.10.22...v0.10.23
+
 ## [v0.10.22](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.22)
 
 ## What's Changed
