@@ -1,5 +1,15 @@
 # Harnice application releases are found here.
 
+## [v0.10.24](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.24)
+
+## What's Changed
+* Keep a placed blank panel label and body in step with its rack units by @kenyonshutt in https://github.com/harnice/Harnice/pull/1401
+* changed default refdes of blank panel by @kenyonshutt in https://github.com/harnice/Harnice/pull/1402
+* Release a stuck block diagram save and show why it failed. by @kenyonshutt in https://github.com/harnice/Harnice/pull/1403
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.10.23...v0.10.24
+
 ## [v0.10.23](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.23)
 
 ## What's Changed
