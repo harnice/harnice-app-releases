@@ -1,5 +1,17 @@
 # Harnice application releases are found here.
 
+## [v0.10.21](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.21)
+
+## What's Changed
+* Paint physical-model screenshots from back to front. by @kenyonshutt in https://github.com/harnice/Harnice/pull/1375
+* keep block diagram undo history when autosaves overlap by @kenyonshutt in https://github.com/harnice/Harnice/pull/1377
+* 833 make channel map traces less fug 4 by @kenyonshutt in https://github.com/harnice/Harnice/pull/1378
+* Stop a block diagram autosave from reloading an older copy. by @kenyonshutt in https://github.com/harnice/Harnice/pull/1380
+* update channel type skills and docs: electrical only, no connector information by @kenyonshutt in https://github.com/harnice/Harnice/pull/1381
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.10.20...v0.10.21
+
 ## [v0.10.20](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.20)
 
 ## What's Changed
