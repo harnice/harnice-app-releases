@@ -1,5 +1,18 @@
 # Harnice application releases are found here.
 
+## [v0.10.22](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.22)
+
+## What's Changed
+* Show compatibles on device connector cards by @kenyonshutt in https://github.com/harnice/Harnice/pull/1383
+* Add rack blank panel by @kenyonshutt in https://github.com/harnice/Harnice/pull/1382
+* updated inkscape installation guidance by @kenyonshutt in https://github.com/harnice/Harnice/pull/1385
+* Fan panels by @kenyonshutt in https://github.com/harnice/Harnice/pull/1387
+* 1333 update node editor graphics in device physical model by @kenyonshutt in https://github.com/harnice/Harnice/pull/1388
+* 1366 add json yaml list as configuration types by @kenyonshutt in https://github.com/harnice/Harnice/pull/1386
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.10.21...v0.10.22
+
 ## [v0.10.21](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.21)
 
 ## What's Changed
