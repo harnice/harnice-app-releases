@@ -1,5 +1,21 @@
 # Harnice application releases are found here.
 
+## [v0.10.25](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.25)
+
+## What's Changed
+* add gitignore to every project by @kenyonshutt in https://github.com/harnice/Harnice/pull/1409
+* major performance upgrades by @kenyonshutt in https://github.com/harnice/Harnice/pull/1412
+* Performance upgrades tests by @kenyonshutt in https://github.com/harnice/Harnice/pull/1414
+* Seed missing mate connectors instead of failing the build by @kenyonshutt in https://github.com/harnice/Harnice/pull/1410
+* added os import to every build instruction by @kenyonshutt in https://github.com/harnice/Harnice/pull/1411
+* 1413 terminal upgrades by @kenyonshutt in https://github.com/harnice/Harnice/pull/1415
+* Keep a digit-leading refdes and store its SVG id with a leading colon. by @kenyonshutt in https://github.com/harnice/Harnice/pull/1417
+* Teach part-family skills to emit one device project per catalog SKU. by @kenyonshutt in https://github.com/harnice/Harnice/pull/1418
+* multi-project undo overhaul by @kenyonshutt in https://github.com/harnice/Harnice/pull/1421
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.10.24...v0.10.25
+
 ## [v0.10.24](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.24)
 
 ## What's Changed
