@@ -1,5 +1,14 @@
 # Harnice application releases are found here.
 
+## [v0.10.26](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.26)
+
+## What's Changed
+* Fill connector-art labels from the connector underneath by @kenyonshutt in https://github.com/harnice/Harnice/pull/1427
+* 1426 the UI got a lot slower over the past few days by @kenyonshutt in https://github.com/harnice/Harnice/pull/1428
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.10.25...v0.10.26
+
 ## [v0.10.25](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.25)
 
 ## What's Changed
