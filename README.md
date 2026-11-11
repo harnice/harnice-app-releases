@@ -1,5 +1,19 @@
 # Harnice application releases are found here.
 
+## [v0.10.27](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.27)
+
+## What's Changed
+* Open library locations without waiting on git. by @kenyonshutt in https://github.com/harnice/Harnice/pull/1432
+* Drop saved build connectors at the start of a device build. by @kenyonshutt in https://github.com/harnice/Harnice/pull/1435
+* updated drawnby request for harnice cli by @kenyonshutt in https://github.com/harnice/Harnice/pull/1437
+* skills update for how to better run harnice cli from device families by @kenyonshutt in https://github.com/harnice/Harnice/pull/1438
+* added keystrokes to every gui button by @kenyonshutt in https://github.com/harnice/Harnice/pull/1439
+* Performance upgrades 2 by @kenyonshutt in https://github.com/harnice/Harnice/pull/1433
+* Make part number not selectable by @kenyonshutt in https://github.com/harnice/Harnice/pull/1440
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.10.26...v0.10.27
+
 ## [v0.10.26](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.26)
 
 ## What's Changed
