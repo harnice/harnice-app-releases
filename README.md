@@ -1,5 +1,14 @@
 # Harnice application releases are found here.
 
+## [v0.10.29](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.29)
+
+## What's Changed
+* 1443 build button overhaul by @kenyonshutt in https://github.com/harnice/Harnice/pull/1457
+* 770 channel types console page by @kenyonshutt in https://github.com/harnice/Harnice/pull/1458
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.10.28...v0.10.29
+
 ## [v0.10.28](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.28)
 
 ## What's Changed
