@@ -1,5 +1,18 @@
 # Harnice application releases are found here.
 
+## [v0.10.28](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.28)
+
+## What's Changed
+* System physical view: ignore hidden bodies, add show/hide all, orbit … by @kenyonshutt in https://github.com/harnice/Harnice/pull/1451
+* Physical model drawing: keep partly hidden photos, paint by what is seen by @kenyonshutt in https://github.com/harnice/Harnice/pull/1452
+* Stop UI clicks from waiting on invisible fetches by @kenyonshutt in https://github.com/harnice/Harnice/pull/1453
+* System physical view: multi-select shows shared pose and drives all d… by @kenyonshutt in https://github.com/harnice/Harnice/pull/1454
+* Speed up PDF drawing undo and keep the PDF ribbon from collapsing by @kenyonshutt in https://github.com/harnice/Harnice/pull/1455
+* System physical view: put pose, fasten, and fix changes on the undo stack (#1446) by @kenyonshutt in https://github.com/harnice/Harnice/pull/1456
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.10.27...v0.10.28
+
 ## [v0.10.27](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.27)
 
 ## What's Changed
