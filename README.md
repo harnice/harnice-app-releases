@@ -1,5 +1,13 @@
 # Harnice application releases are found here.
 
+## [v0.10.30](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.30)
+
+## What's Changed
+* Store undo snapshots once, free the window's connections, and log slow requests. by @kenyonshutt in https://github.com/harnice/Harnice/pull/1459
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.10.29...v0.10.30
+
 ## [v0.10.29](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.29)
 
 ## What's Changed
