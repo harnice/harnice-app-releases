@@ -1,5 +1,32 @@
 # Harnice application releases are found here.
 
+## [v0.10.31](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.31)
+
+## What's Changed
+* Print more build progress messages during system builds by @kenyonshutt in https://github.com/harnice/Harnice/pull/1463
+* Skills: channel-type compatibility only needs one direction (#1460) by @kenyonshutt in https://github.com/harnice/Harnice/pull/1464
+* 1462 channel types tsv needs to reload on each build by @kenyonshutt in https://github.com/harnice/Harnice/pull/1465
+* updated defaults to put all outputs inside an if true statement by @kenyonshutt in https://github.com/harnice/Harnice/pull/1466
+* Keep project saves inside the open project folder (#1422) by @kenyonshutt in https://github.com/harnice/Harnice/pull/1467
+* Keep customer data out of the perf log by @kenyonshutt in https://github.com/harnice/Harnice/pull/1468
+* Physical drawing: paint every face back to front, skip faces with holes by @kenyonshutt in https://github.com/harnice/Harnice/pull/1469
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.10.30...v0.10.31
+
+## What's Changed
+* Ask chat replies to use plain language and bullets. by @kenyonshutt in https://github.com/harnice/Harnice/pull/1434
+* Print build progress messages during system builds by @kenyonshutt in https://github.com/harnice/Harnice/pull/1463
+* Skills: channel-type compatibility only needs one direction (#1460) by @kenyonshutt in https://github.com/harnice/Harnice/pull/1464
+* 1462 channel types tsv needs to reload on each build by @kenyonshutt in https://github.com/harnice/Harnice/pull/1465
+* updated defaults to put all outputs inside an if true statement by @kenyonshutt in https://github.com/harnice/Harnice/pull/1466
+* Keep project saves inside the open project folder (#1422) by @kenyonshutt in https://github.com/harnice/Harnice/pull/1467
+* Keep customer data out of the perf log. by @kenyonshutt in https://github.com/harnice/Harnice/pull/1468
+* Physical drawing: paint every face back to front, skip faces with holes by @kenyonshutt in https://github.com/harnice/Harnice/pull/1469
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.10.30...v0.10.31
+
 ## [v0.10.30](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.30)
 
 ## What's Changed
