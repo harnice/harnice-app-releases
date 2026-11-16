@@ -1,5 +1,26 @@
 # Harnice application releases are found here.
 
+## [v0.11.1](https://github.com/harnice/harnice-app-releases/releases/tag/v0.11.1)
+
+# Big changes
+Worktrees are now a baked-in part of the git navigator panel
+
+## What's Changed
+* Save editor text only to its own project; JSON pages: live validation and library diff by @kenyonshutt in https://github.com/harnice/Harnice/pull/1483
+* Stop the editor scroll pin from snapping back after user scrolls by @kenyonshutt in https://github.com/harnice/Harnice/pull/1472
+* Add system_bom_exporter macro; rename harness BOM macro by @kenyonshutt in https://github.com/harnice/Harnice/pull/1471
+* Check imported harness designs against the system (#397) by @kenyonshutt in https://github.com/harnice/Harnice/pull/1485
+* Trace layout macro follows formboard bends (#1480) by @kenyonshutt in https://github.com/harnice/Harnice/pull/1481
+* Git buttons echo their commands; conflicts name projects; searchable branch menu by @kenyonshutt in https://github.com/harnice/Harnice/pull/1497
+* Give the instances chooser its own vertical drag bar (#1475) by @kenyonshutt in https://github.com/harnice/Harnice/pull/1482
+* Store device 3D positions in the system instances list (#1490) by @kenyonshutt in https://github.com/harnice/Harnice/pull/1498
+* Write block diagram SVG in one canonical form (#1488) by @kenyonshutt in https://github.com/harnice/Harnice/pull/1500
+* 1492 copy warnings only button in stdout by @kenyonshutt in https://github.com/harnice/Harnice/pull/1501
+* Branch worktrees: per-project Main/Worktree toggle, sparse worktrees per branch by @kenyonshutt in https://github.com/harnice/Harnice/pull/1499
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.10.31...v0.11.1
+
 ## [v0.10.31](https://github.com/harnice/harnice-app-releases/releases/tag/v0.10.31)
 
 ## What's Changed
