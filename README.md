@@ -1,5 +1,16 @@
 # Harnice application releases are found here.
 
+## [v0.11.2](https://github.com/harnice/harnice-app-releases/releases/tag/v0.11.2)
+
+## What's Changed
+* Project open on Windows: no prompt_toolkit crash, say why verify prompts by @kenyonshutt in https://github.com/harnice/Harnice/pull/1511
+* 1509 need drawing and body viewer for parts by @kenyonshutt in https://github.com/harnice/Harnice/pull/1512
+* Skills ask where connector and cable selection rules live (#1474) by @kenyonshutt in https://github.com/harnice/Harnice/pull/1502
+* Worktree UX: free the main folder's branch, faster slider, open/new i… by @kenyonshutt in https://github.com/harnice/Harnice/pull/1513
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.11.1...v0.11.2
+
 ## [v0.11.1](https://github.com/harnice/harnice-app-releases/releases/tag/v0.11.1)
 
 # Big changes
