@@ -1,5 +1,18 @@
 # Harnice application releases are found here.
 
+## [v0.11.3](https://github.com/harnice/harnice-app-releases/releases/tag/v0.11.3)
+
+## What's Changed
+* Example connector: put 3d-mate at the origin so it has no offset (#1506) by @kenyonshutt in https://github.com/harnice/Harnice/pull/1515
+* Console: run commands in Git Bash, never the WSL launcher (#1514) by @kenyonshutt in https://github.com/harnice/Harnice/pull/1516
+* Flying leads: flying_lead_generator macro and formboard opt-in (#1505) by @kenyonshutt in https://github.com/harnice/Harnice/pull/1517
+* Commit message box starts with pn-rev: prefix (#1528) by @kenyonshutt in https://github.com/harnice/Harnice/pull/1537
+* Block diagram exporter: keep self-closing tags valid when hiding a layer by @kenyonshutt in https://github.com/harnice/Harnice/pull/1538
+* Channel Types Manager: keep header text on its own line at any width … by @kenyonshutt in https://github.com/harnice/Harnice/pull/1539
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.11.2...v0.11.3
+
 ## [v0.11.2](https://github.com/harnice/harnice-app-releases/releases/tag/v0.11.2)
 
 ## What's Changed
