@@ -1,5 +1,24 @@
 # Harnice application releases are found here.
 
+## [v0.11.4](https://github.com/harnice/harnice-app-releases/releases/tag/v0.11.4)
+
+## What's Changed
+* Harness routing from the source system's mating connectors, Nodes sidebar, #1470 routing context (#1506) by @kenyonshutt in https://github.com/harnice/Harnice/pull/1519
+* Available network editor: Show only chosen in the Nodes panel by @kenyonshutt in https://github.com/harnice/Harnice/pull/1540
+* Body macros: name all six faces so images attach to each by @kenyonshutt in https://github.com/harnice/Harnice/pull/1541
+* Worktree toggle: slider stays put, never opens a leftover copy (#1525, #1526) by @kenyonshutt in https://github.com/harnice/Harnice/pull/1545
+* Context instances: show/hide in every 3D routing view, GUI only, right-click to hide by @kenyonshutt in https://github.com/harnice/Harnice/pull/1547
+* Add harnice --check-drawing; tighten the part-family drawing contract by @kenyonshutt in https://github.com/harnice/Harnice/pull/1543
+* Add generic ferrules to harnice-general-library by @kenyonshutt in https://github.com/harnice/Harnice/pull/1546
+* Loopback length: turn on the same segment the drawing shows (#1489) by @kenyonshutt in https://github.com/harnice/Harnice/pull/1550
+* Block diagram export: mating connectors on top (#1478) by @kenyonshutt in https://github.com/harnice/Harnice/pull/1552
+* Rebuild test-harness-1 project data by @kenyonshutt in https://github.com/harnice/Harnice/pull/1553
+* 3D views orbit from the body; existing-worktree project menus; pickers start in the library root by @kenyonshutt in https://github.com/harnice/Harnice/pull/1549
+* Add generic spade terminals to harnice-general-library by @kenyonshutt in https://github.com/harnice/Harnice/pull/1548
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.11.3...v0.11.4
+
 ## [v0.11.3](https://github.com/harnice/harnice-app-releases/releases/tag/v0.11.3)
 
 ## What's Changed
