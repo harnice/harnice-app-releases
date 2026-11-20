@@ -1,5 +1,15 @@
 # Harnice application releases are found here.
 
+## [v0.11.5](https://github.com/harnice/harnice-app-releases/releases/tag/v0.11.5)
+
+## What's Changed
+* Never persist text in the project search field (#1557) by @kenyonshutt in https://github.com/harnice/Harnice/pull/1558
+* Keep editor scroll aligned when switching diff mode on and off (#1555) by @kenyonshutt in https://github.com/harnice/Harnice/pull/1559
+* Available network: available.json is the only source; new available/chosen algorithm (#1556) by @kenyonshutt in https://github.com/harnice/Harnice/pull/1560
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.11.4...v0.11.5
+
 ## [v0.11.4](https://github.com/harnice/harnice-app-releases/releases/tag/v0.11.4)
 
 ## What's Changed
