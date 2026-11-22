@@ -1,5 +1,20 @@
 # Harnice application releases are found here.
 
+## [v0.12.1](https://github.com/harnice/harnice-app-releases/releases/tag/v0.12.1)
+
+# Big changes
+* Store the instances list as json, not csv, and remove a lot of old, vulnerable AST parsing of objects hidden inside CSV's
+* Name changes of 3D objects: now Harnice 3D only knows nodes, segments, mates, and bodies. that's it. 
+## What's Changed
+* Log actions, errors and crashes to a logs folder in app data by @kenyonshutt in https://github.com/harnice/Harnice/pull/1564
+* Store the instances list as JSON and share one cell parser by @kenyonshutt in https://github.com/harnice/Harnice/pull/1561
+* Undo takes back fresh editor text before a page switch (#1536) by @kenyonshutt in https://github.com/harnice/Harnice/pull/1568
+* Mate harness ends at a fixed distance and keep mating connector order… by @kenyonshutt in https://github.com/harnice/Harnice/pull/1570
+* Device mating connectors are nodes (#1521) by @kenyonshutt in https://github.com/harnice/Harnice/pull/1571
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.11.5...v0.12.1
+
 ## [v0.11.5](https://github.com/harnice/harnice-app-releases/releases/tag/v0.11.5)
 
 ## What's Changed
