@@ -1,5 +1,14 @@
 # Harnice application releases are found here.
 
+## [v0.12.3](https://github.com/harnice/harnice-app-releases/releases/tag/v0.12.3)
+
+## What's Changed
+* Space rotates CCW; r is only the rectangle tool (#1584) by @kenyonshutt in https://github.com/harnice/Harnice/pull/1585
+* harnesses.verify() warns on bus connectors with no harness by @kenyonshutt in https://github.com/harnice/Harnice/pull/1589
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.12.2...v0.12.3
+
 ## [v0.12.2](https://github.com/harnice/harnice-app-releases/releases/tag/v0.12.2)
 
 # Big Changes
