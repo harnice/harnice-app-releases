@@ -1,5 +1,17 @@
 # Harnice application releases are found here.
 
+## [v0.12.2](https://github.com/harnice/harnice-app-releases/releases/tag/v0.12.2)
+
+# Big Changes
+* you can now define harnesses via build instructions, no longer necessarily via block diagram reference desginators
+## What's Changed
+* MCP server, published schema, and a site without code reference (#1567) by @kenyonshutt in https://github.com/harnice/Harnice/pull/1579
+* changed keying on refdes uniqueness to the will-be name, not the is-name by @kenyonshutt in https://github.com/harnice/Harnice/pull/1580
+* Define harnesses on buses in build instructions (#1574) by @kenyonshutt in https://github.com/harnice/Harnice/pull/1581
+
+
+**Full Changelog**: https://github.com/harnice/Harnice/compare/v0.12.1...v0.12.2
+
 ## [v0.12.1](https://github.com/harnice/harnice-app-releases/releases/tag/v0.12.1)
 
 # Big changes
